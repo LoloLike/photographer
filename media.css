@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+	.header_flex {
+		display: block;
+		width: 100%;
+}
+
+header {
+	padding: 0;
+	width: 100%;
+	position: static;
+}
+
+	.header_flex a {
+	margin: 0;
+
+}
+
+	.header_flex p {
+		width: 100%;
+	}
+}
